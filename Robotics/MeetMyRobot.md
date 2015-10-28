@@ -1,6 +1,6 @@
 ## Introduction
 
-Space is the dangerous place and human life is too important to risk it.
+Space is a dangerous place and human life is too important to risk it.
 That's why we are using where is it possible for space exploring.
 Robots can take dangerous and routine work and they are really helpful.
 
