@@ -33,5 +33,7 @@ A short story. Add illustrations if you want.
 
 ### Metadata
 Theme: Literacy
+
 Skills: Writing, Creativity
+
 Difficulty: ★★☆☆☆
