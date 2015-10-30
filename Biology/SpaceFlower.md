@@ -1,4 +1,4 @@
-![Flower]('/images/imgSpaceFlower.jpg')
+![Flower](imgSpaceFlower.jpg)
 
 ### Introduction (Background)
 
