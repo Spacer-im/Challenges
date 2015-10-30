@@ -32,4 +32,7 @@ Use any form for your solution: writing, videos, images or schemas.
 
 ### Metadata
 Theme: Biology
+
+Skills: Biology, Physics
+
 Difficulty: ★★★☆☆
