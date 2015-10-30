@@ -24,7 +24,7 @@ Use any form for your solution: writing, videos, images or schemas.
 
 ### Useful Resources
 
-[Plants in Space](https://en.wikipedia.org/wiki/Plants_in_space)Â
+[Plants in Space](https://en.wikipedia.org/wiki/Plants_in_space)
 
 [Growing Salads for Long-Term Human Space Travel](http://www.nasa.gov/centers/kennedy/news/releases/2004/p03-04.html)
 
