@@ -13,7 +13,7 @@ your writing skills can be no less important than engineering or physical expert
 
 ### Problem
 
-Colonization of the Moon has been excited spacer long ago.
+Colonization of the Moon has been excited spacers long ago.
 Let's dream about it but in Sci-Fi style.
 
 Write a short story about a moon colony (or colonies).
