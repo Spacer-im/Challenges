@@ -2,29 +2,29 @@
 
 ### Introduction
 
-Space exploration is not only dangerous but expensive.
+Space exploration is not only dangerous but also expensive.
 We can't afford to test all ideas or software with real space equipment.
-One of the solutions of this problem is Computing simulations.
+One of the solutions to this problem is computing simulations.
 
 We can model various situations and environments with computers and
 experiment without fear to lose expensive equipment or human lives.
-Of course, we can't simulate the all possible factors and consider everything,
+Of course, we can't simulate all the possible factors and consider everything,
 and more complex model takes much more efforts to create it.
 So one of the main problems of computing simulations is to choose this border.
-Even a simple model can help to test of ideas and find their disadvantages for early stages.
+Even a simple model can help to test ideas and find their disadvantages for early stages.
 
 ### Problem
 
-Let's look at one of the simple model of the Mars lander. This simulation is realized as
+Let's look at one of the simple models of the Mars lander. This simulation is realized as
 a coding game at [CodinGame site](http://codingame.com) with various difficulties (you can find links in the next section).
 Try to solve it and land the model of the Mars Lander.
 How do you think to solve it? Which algorithms will you use for this?
-Is it the practice and useful coding problems or you think it's just a game?
+Is it a practical and useful coding problem or do you think it's just a game?
 
 ### Output
 The algorithm description as a text or as a code.
 You can use any services to share your code (gist for example).
-You thoughts of the real usage of coding tasks like "Mars Lander" by CodinGame.
+Your thoughts about the real usage of coding tasks like "Mars Lander" by CodinGame.
 
 ### Additional material
 [Mars Lander **Level 1**](https://www.codingame.com/games/puzzles/40)
