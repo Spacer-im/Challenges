@@ -13,13 +13,13 @@ ATA collected the big set of data and this data should be processed and examined
 
 ### Problem
 
-So anyone can participate in the space exploration just run the screensaver.
-But maybe it should be an application or web service, where people can feel their participation.
+So anyone can participate in the space exploration just by running the screensaver.
+But maybe it should be an application or a web service, where people can openely participate.
 
 The [Setiquest](http://setiquest.org/) data archive contains 4 TB of quadrature waveform samples of interesting targets that have been collected at the Allen Telescope Array.
 With this data we can build more interesting applications or services,
 where anyone can contribute their CPU power and see results of their contribution,
-not just a data about consumed CPU/GPU power.
+not just data about consumed CPU/GPU power.
 
 Or we can build software where people can help process ATA data, like the closed [SetiLive](http://www.setilive.org/).
 
