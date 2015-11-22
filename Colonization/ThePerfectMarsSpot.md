@@ -6,7 +6,7 @@
 
 NASA is developing the capabilities needed to send humans to an asteroid by 2025 and Mars in the 2030s – goals outlined in the bipartisan NASA Authorization Act of 2010 and in the U.S. National Space Policy, also issued in 2010.
 
-[<img src="http://www.nasa.gov/sites/default/files/thumbnails/image/journey_to_mars.jpeg"  style={width: "400px"} />](http://www.nasa.gov/sites/default/files/thumbnails/image/journey_to_mars.jpeg)
+[<img src="http://www.nasa.gov/sites/default/files/thumbnails/image/journey_to_mars.jpeg"  style={max-width: 400px; width: 100%} />](http://www.nasa.gov/sites/default/files/thumbnails/image/journey_to_mars.jpeg)
 > Credits: NASA
 
 While robotic explorers have studied Mars for more than 40 years, NASA’s path for the human exploration of Mars begins in low-Earth orbit aboard the International Space Station. Astronauts on the orbiting laboratory are helping us prove many of the technologies and communications systems needed for human missions to deep space, including Mars. The space station also advances our understanding of how the body changes in space and how to protect astronaut health.
