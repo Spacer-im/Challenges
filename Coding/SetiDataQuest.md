@@ -23,8 +23,9 @@ not just data about consumed CPU/GPU power.
 
 Or we can build software where people can help process ATA data, like the closed [SetiLive](http://www.setilive.org/).
 
-So let's use our coding skills to make something interesting with SETI data and maybe we will find
-tracks of intelligent extraterrestrial life.
+Propose and describe a service or a product that can be built with SETI data. It can be a site with visualization of SETI data. Or it can be data mining project. The only one restriction is your imagination.
+
+As advanced challenge and if you have coding skills, then you can make something interesting with SETI data and maybe we will find tracks of intelligent extraterrestrial life.
 
 ### Output
 
