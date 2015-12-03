@@ -18,14 +18,14 @@ Advancements in small spacecraft capabilities may not only provide benefits to f
 
 ### Output
 
-Describe you experience and results if you (your team) take participation in this NASA challenge. Or share ideas for participators, maybe, it will allow you to find a team and enter to the challenge.
+Describe your way of thinking and results if you (or your team) are participating in this NASA's challenge. On another hand, you can share your ideas with participators. Maybe it will allow you to find a team and join the challenge.
 
 ### Additional material
 
 [Information and Updates](http://www.nasa.gov/cubequest/details)
 
-[the Rules document](http://www.nasa.gov/sites/default/files/ccp_cq_opsrul_001a.pdf)
+[Rules](http://www.nasa.gov/sites/default/files/ccp_cq_opsrul_001a.pdf)
 
 ## Credits
 
-[NASA site](http://www.nasa.gov/directorates/spacetech/centennial_challenges/cubequest/index.html)
+[NASA website](http://www.nasa.gov/directorates/spacetech/centennial_challenges/cubequest/index.html)
